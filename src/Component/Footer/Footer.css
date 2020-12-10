@@ -1,0 +1,20 @@
+.footer-top{
+    background-color: #f0f0f0;
+}
+.footer-top ul li{
+    list-style: none;
+
+}
+.footer-top ul li a{
+    color: #4f4f4f;
+    font-size: 14px;
+}
+.subscribe .email-icon{
+    position: absolute;
+    z-index: 20;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.footer-bottom {
+    background-color: #6e716e;
+}

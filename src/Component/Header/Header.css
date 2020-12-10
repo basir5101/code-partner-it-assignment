@@ -1,0 +1,61 @@
+.header-top{
+    background-color: #6E716E;
+    color: white;
+    display: flex;
+    height: 42px;
+}
+.header-top a{
+    color: white;
+    text-decoration: underline;
+    margin: 0 30px;
+}
+
+/* header main */
+.header-main{
+    color: #828282;
+}
+.header-main i{
+    font-size: 28px;
+}
+
+.has-search .form-control {
+    width: 250px;
+
+}
+
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    right: 14%;
+    pointer-events: none;
+    color: #aaa;
+}
+
+
+/* header menu */
+
+.header-menu{
+    background-color: #F0F0F0;
+}
+
+ul{
+    padding: 0;
+}
+
+.header-menu ul li{
+    display: inline-block;
+    padding-right: 10px;
+    line-height: 48px;
+}
+.header-menu ul li a{
+    color: #828282;
+    text-decoration: none;
+}
+.header-menu ul li a:hover{
+    color: black;
+}

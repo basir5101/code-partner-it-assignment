@@ -1,0 +1,31 @@
+.product-body .banner{
+    background-color: #e0e0e0;
+    min-height: 450px;
+}
+.banner-product{
+    background-color: #f2f2f2;
+    display: inline-block;
+}
+.banner-product-details{
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+
+}
+.banner-product button{
+    background-color: #828282;
+    color: white;
+    border: none;
+    outline: none;
+    width: 137px;
+    height: 42px;
+    text-align: center;
+    margin-top: 10px;
+}
+.products{
+    background-color: '#e0e0e0'
+}
+
+.special{
+    background-color: blue;
+}

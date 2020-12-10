@@ -1,0 +1,24 @@
+.hot-product-details{
+    color: #828282;
+}
+.hot-product-details a{
+    font-size: 10px;
+    text-decoration: underline;
+    color: #828282;
+}
+.hot-product-details .fa-star{
+    font-size: 13px;
+}
+.hot-product-details .star-unchecked{
+    color: #c4c4c4;
+}
+.hot-product-details h4{
+    font-size: 15px;
+}
+.hot-product-details button{
+    border: none;
+    outline: none;
+    height: 35px;
+    width: 103px;
+    background-color: #828282;
+}
